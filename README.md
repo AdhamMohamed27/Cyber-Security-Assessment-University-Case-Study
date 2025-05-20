@@ -64,22 +64,10 @@ Each domain section follows this structure:
 
 ---
 
-## 📊 Peer Review Summary
-
-| Contributor | Score (out of 100) | Notes |
-|-------------|--------------------|-------|
-| Toqa Mahmoud | 98 | Excellent structure, deep understanding of risk and asset models |
-| Merna Hebishy | 93 | Strong technical insights with actionable recommendations |
-| Ismail Sabry | 91 | Good coverage of operations and SDLC, slightly better structure would help |
-
----
-
 ## 📁 Files Included
 
 - `Cyber_Security_Assessment_Report.pdf` – The full report with all domain assessments
 - `README.md` – Project summary and team contributions
-- `ISO_References.bib` – BibTeX citations for referenced ISO standards (optional)
-
 ---
 
 ## 📌 License
