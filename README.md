@@ -25,27 +25,6 @@ A fictional UK university transitioned to a more online/blended learning model p
 
 ---
 
-## ✅ Learning Outcomes
-
-- Conducted a full security risk assessment across 8 cybersecurity domains.
-- Applied real ISO/IEC 27001, 27002, 27003, and 27004 standards.
-- Identified specific risks, such as unsecured Wi-Fi, insufficient training, and lack of encryption in transit.
-- Proposed practical, ISO-aligned guidelines for implementation.
-
----
-
-## 📄 Report Structure
-
-Each domain section follows this structure:
-
-1. **Introduction** – A brief overview of the domain and its relevance.
-2. **Review/Overview** – Detailed technical and strategic background.
-3. **Critique** – Pros and cons of the current implementation in the university.
-4. **Summary** – A wrap-up of key findings.
-5. **Guidelines** – ISO-aligned, actionable recommendations.
-
----
-
 ## 🔗 Standards Referenced
 
 - [ISO/IEC 27001:2013 – ISMS Requirements](https://www.iso.org/standard/54534.html)
@@ -53,21 +32,6 @@ Each domain section follows this structure:
 - [ISO/IEC 27003:2010 – ISMS Implementation Guidance](https://www.iso.org/standard/44375.html)
 - [ISO/IEC 27004:2009 – Information Security Measurement](https://www.iso.org/standard/44376.html)
 
----
-
-## 👥 Team Members
-
-- **Toqa Mahmoud** – Security & Risk Management, Asset Security
-- **Merna Hebishy** – Security Architecture & Engineering, Identity & Access Management
-- **Adham Mohamed** – Communication & Network Security, Security Assessment & Training
-- **Ismail Sabry** – Security Operations, Software Development Security
-
----
-
-## 📁 Files Included
-
-- `Cyber_Security_Assessment_Report.pdf` – The full report with all domain assessments
-- `README.md` – Project summary and team contributions
 ---
 
 ## 📌 License
